@@ -7,7 +7,7 @@ This is my solution to the [Stats preview card component challenge on Frontend M
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Step by step](#step-by-step)
@@ -23,14 +23,14 @@ Users should be able to:
 
 - View the optimal layout depending on their device's screen size
 
-### Screenshot
+### Screenshots
 
 ![](./ss-mobile.png)
 ![](./ss-desk.png)
 
 ### Links
 
-- Live Site URL: [https://mystifying-elion-1283d0.netlify.app/](https://mystifying-elion-1283d0.netlify.app/)
+- Live Site URL: [https://firstchallenge.netlify.app/](https://firstchallenge.netlify.app/)
 
 ## My process
 
