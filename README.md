@@ -25,13 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-(![](./ss-mobile.png))
-(![](./ss-desk.png))
+![](./ss-mobile.png)
+![](./ss-desk.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://mystifying-elion-1283d0.netlify.app/](https://mystifying-elion-1283d0.netlify.app/)
 
 ## My process
 
@@ -50,16 +49,17 @@ Users should be able to:
 I studied graphic design and did not knew css has overlay layers mode. Mind blowinq. This is also a great exercise for padding and media queries.
 
 ```html
-<h1>Understading this:</h1>
+Understading this:
 ```
 ```css
 padding: 20px 200px 0 40px;
 padding-left:
 padding-top:
-
+```
+```
+```html
 :o
 ```
-
 ### Useful resources
 
 - [Example resource 1](https://www.youtube.com/watch?v=2tlbKm8_4mg) - This helped me for swap ordering. Pretty much refined pn this.
