@@ -56,10 +56,10 @@ padding: 20px 200px 0 40px;
 padding-left:
 padding-top:
 ```
-```
 ```html
-:o
+:O
 ```
+
 ### Useful resources
 
 - [Example resource 1](https://www.youtube.com/watch?v=2tlbKm8_4mg) - This helped me for swap ordering. Pretty much refined pn this.
